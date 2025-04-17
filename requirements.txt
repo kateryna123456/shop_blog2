@@ -75,7 +75,6 @@ pure_eval
 pycparser
 Pygments
 python-dateutil
-pywinpty
 PyYAML
 pyzmq
 referencing
